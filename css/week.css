@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  font-weight: 10px;
+}
+
+h1 {
+  font-weight: 7.5rem;
+  text-align: center;
+}
+section {
+  font-weight: 2.5rem;
+}
+body {
+  font-family: sans-serif;
+  font-style: normal;
+  height: 100vh;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.menu {
+  width: 30%;
+  margin: 1.66%;
+  border: 3px solid black;
+}
+div {
+}
